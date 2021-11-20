@@ -1,0 +1,6 @@
+[
+  {
+    "imgSrc": "https://static.displate.com/857x1200/displate/2019-03-06/34d40d58cc8396446e1f14776a8aaca3_7389d3787255d35db71811877ea8d096.jpg",
+    "imgName": "Cyberpunk Sailor Moon"
+  }
+]

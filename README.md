@@ -8,7 +8,7 @@ Automation script to download poster images from displate.
   npm install
 ```
 
-Add poster page urls to the links.txt file
+Add poster page urls to the ```links.txt``` file
 
 And then run in the terminal
 
@@ -16,4 +16,4 @@ And then run in the terminal
   npm start
 ```
 
-Images would be saved in /results directory, along with a JSON file of all the links
+Images would be saved in ```/results``` directory, along with a JSON file of all the links
